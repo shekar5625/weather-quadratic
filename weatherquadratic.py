@@ -1,4 +1,4 @@
-import numpy as np  # for quadratic solutions
+import numpy as np
 
 
 def calculate_weather(a, b, c):
